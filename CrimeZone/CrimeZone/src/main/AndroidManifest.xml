@@ -56,20 +56,19 @@
             </intent-filter>
         </service>
 
-<<<<<<< HEAD
         <activity
             android:name="com.ppl.crimezone.report_comment_ui"
             android:label="@string/title_activity_report_comment_ui"
             android:windowSoftInputMode="stateVisible|adjustPan">
         </activity>
-=======
+
         <receiver android:name="com.ppl.crimezone.activities.autostart" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
 
->>>>>>> 529cf0ae80a13643d7ecdc126771347280a9f35a
+
     </application>
 
     <uses-permission android:name="android.permission.INTERNET" />
