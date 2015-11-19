@@ -3,5 +3,5 @@ CrimeZone/debug.keystore
 .gradle
 /local.properties
 /.idea/workspace.xml
-/.idea/compiler.xml
+.idea/compiler.xml
 .DS_Store
