@@ -43,6 +43,7 @@
         android:divider="@color/dark"
         android:id="@+id/newsfeedview"
         android:stackFromBottom="false"
-        android:drawSelectorOnTop="false"
-        android:entries="5" />
+        android:drawSelectorOnTop="false"/>
+        <!-- android:entries="5" -->
+
 </LinearLayout>
