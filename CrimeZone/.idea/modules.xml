@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Libraries/AndroidSlidingUpPanel/AndroidSlidingUpPanel.iml" filepath="$PROJECT_DIR$/Libraries/AndroidSlidingUpPanel/AndroidSlidingUpPanel.iml" />
       <module fileurl="file://$PROJECT_DIR$/CrimeZone.iml" filepath="$PROJECT_DIR$/CrimeZone.iml" />
       <module fileurl="file://$PROJECT_DIR$/CrimeZone/CrimeZone-CrimeZone.iml" filepath="$PROJECT_DIR$/CrimeZone/CrimeZone-CrimeZone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraries/Libraries.iml" filepath="$PROJECT_DIR$/Libraries/Libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/Libraries/AndroidSlidingUpPanel/library/library.iml" filepath="$PROJECT_DIR$/Libraries/AndroidSlidingUpPanel/library/library.iml" />
     </modules>
   </component>
 </project>
-
