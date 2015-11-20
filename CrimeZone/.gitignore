@@ -21,6 +21,8 @@ local.properties
 .idea/gradle.xml
 .idea/libraries
 
+#Temporary Included Libraries
+Libraries/AndroidSlidingUpPanel/library/build/tmp/packageReleaseJar/MANIFEST.MF
 
 # OS-specific files
 .DS_Store
