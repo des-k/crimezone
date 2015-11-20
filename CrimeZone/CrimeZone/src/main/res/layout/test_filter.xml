@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="35dp"
         android:background="@null"
-        android:src="@drawable/btn_filter"
+        android:src="@drawable/btn_openfilter"
         android:layout_gravity="center"
         android:id="@+id/show_filter"
     />
