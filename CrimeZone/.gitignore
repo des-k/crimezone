@@ -24,6 +24,9 @@ local.properties
 #Build folder Included Libraries: AndroidSlidingUpPanel
 Libraries/AndroidSlidingUpPanel/library/build/
 
+#Configuration external Libraries: AndroidSlidingUpPanel
+Libraries/AndroidSlidingUpPanel/AndroidSlidingUpPanel.iml
+
 #Configuration module external 
 Libraries/Libraries.iml
 
