@@ -21,8 +21,11 @@ local.properties
 .idea/gradle.xml
 .idea/libraries
 
-#Temporary Included Libraries
-Libraries/AndroidSlidingUpPanel/library/build/tmp/packageReleaseJar/MANIFEST.MF
+#Build folder Included Libraries: AndroidSlidingUpPanel
+Libraries/AndroidSlidingUpPanel/library/build/
+
+#Configuration module external 
+Libraries/Libraries.iml
 
 # OS-specific files
 .DS_Store
