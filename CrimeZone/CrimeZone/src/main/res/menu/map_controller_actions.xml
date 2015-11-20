@@ -11,4 +11,9 @@
     <item android:id="@+id/action_settings"
         android:title="@string/action_settings"
         CrimeZone:showAsAction="ifRoom" />
+
+    <item android:id="@+id/report_comment_ui"
+        android:title="@string/title_activity_report_comment_ui"
+        CrimeZone:showAsAction="ifRoom" />
+
 </menu>
