@@ -12,5 +12,5 @@
     <color name="color3">#2c2034</color>
     <color name="color4">#348bd3</color>
     <color name="color5">#f2e019</color>
-
+    <color name="transparent">#00000000</color>
 </resources>

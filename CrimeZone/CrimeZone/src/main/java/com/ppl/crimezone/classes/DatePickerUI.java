@@ -8,6 +8,8 @@ import android.os.Message;
 import android.support.v4.app.DialogFragment;
 import android.widget.DatePicker;
 
+import java.util.HashMap;
+
 /**
  * Created by adesudiman on 4/10/2014.
  */
@@ -19,10 +21,22 @@ public class DatePickerUI extends DialogFragment {
     int month;
     int day;
 
-    public DatePickerUI(Handler h){
-        /** Getting the reference to the message handler instantiated in MainActivity class */
-        mHandler = h;
-    }
+    public DatePickerUI(){}
+
+
+//    public static DatePickerUI newInstance(Handler h) {
+//        CheckoutFragment cf = new CheckoutFragment();
+//        Bundle bundle = new Bundle();
+//        bundle.putAll(h);
+//        bundle.putSerializable("orders", orders);
+//        cf.setArguments(bundle);
+//
+//        return cf;
+//    }
+//    public DatePickerUI(Handler h){
+//        /** Getting the reference to the message handler instantiated in MainActivity class */
+//        mHandler = h;
+//    }
 
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState){

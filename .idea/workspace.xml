@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="601e071c-12e2-4cf6-b9f7-10517ae8ecb3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/debug/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/debug/res/drawable/above_shadow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/debug/res/drawable/below_shadow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/debug/res/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/release/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/release/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/release/classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/release/libs/nineoldandroids-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/release/res/drawable/above_shadow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/release/res/drawable/below_shadow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/bundles/release/res/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$DragHelperCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$LayoutParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$PanelSlideListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$SimplePanelSlideListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout$SlideState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/SlidingUpPanelLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/library/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/library/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/library/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/library/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/debug/com/sothree/slidinguppanel/library/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$DragHelperCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$LayoutParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$PanelSlideListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$SimplePanelSlideListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout$SlideState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/SlidingUpPanelLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/library/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/library/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/library/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/library/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/classes/release/com/sothree/slidinguppanel/library/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/incremental/aidl/debug/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/incremental/aidl/release/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/incremental/mergeAssets/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/incremental/mergeAssets/release/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/incremental/packageResources/debug/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/incremental/packageResources/release/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/libs/library.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/source/buildConfig/debug/com/sothree/slidinguppanel/library/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/source/buildConfig/release/com/sothree/slidinguppanel/library/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/source/r/debug/com/sothree/slidinguppanel/library/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build/source/r/release/com/sothree/slidinguppanel/library/R.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_email.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_email.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_fname.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_fname.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_lname.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_lname.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_notification.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_notification.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_socline.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_socline.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_username.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/b_username.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/back.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/bg_filter.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/bg_filter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/blueline.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/blueline.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/borderline.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/borderline.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/btn_search.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/btn_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/crimereport.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/crimereport.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/h_settings.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/h_settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_clock.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_clock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_fbn.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_fbn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_fby.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_fby.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_filter.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_filter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_pin.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_pin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_prof.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_prof.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_twn.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_twn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_twy.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_twy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_user.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/i_user.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_burglary.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_burglary.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_drugs.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_drugs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_homicide.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_homicide.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_kidnap.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_kidnap.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_launcher.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_nocrime.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_nocrime.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_report.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_report.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_settings.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_sxassault.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_sxassault.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_theft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_theft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_vehicletheft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_vehicletheft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_violence.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/ic_violence.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/logo_l.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/logo_l.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_2.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_3.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_4.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_5.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_6.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_7.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_8.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_burglary.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_burglary.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_drugs.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_drugs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_homicide.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_homicide.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_kidnap.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_kidnap.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_sxassault.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_sxassault.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_theft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_theft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_vehicletheft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_vehicletheft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_violence.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/mk_violence.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/myprofile.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/myprofile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_burglary.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_burglary.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_drugs.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_drugs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_homicide.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_homicide.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_kidnap.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_kidnap.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_sxassault.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_sxassault.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_theft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_theft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_vehicletheft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_vehicletheft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_violence.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nc_violence.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/newsfeed.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/newsfeed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_burglary.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_burglary.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_drugs.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_drugs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_homicide.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_homicide.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_kidnap.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_kidnap.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_sxassault.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_sxassault.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_theft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_theft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_vehicletheft.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_vehicletheft.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_violence.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/nf_violence.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_halfstar.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_halfstar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_nostar.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_nostar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_star.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_yesstar.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/r_yesstar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/rate.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/rate.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/refresh.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/refresh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/reportcrime.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/reportcrime.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/share_fb.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/share_fb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/share_tw.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/share_tw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/time.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/time.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/write.png" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/drawable/write.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/libs/nineoldandroids-2.4.0.jar" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/libs/nineoldandroids-2.4.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/CrimeZone/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.gitignore" afterPath="$PROJECT_DIR$/CrimeZone/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/.name" afterPath="$PROJECT_DIR$/CrimeZone/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/compiler.xml" afterPath="$PROJECT_DIR$/CrimeZone/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/CrimeZone/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/encodings.xml" afterPath="$PROJECT_DIR$/CrimeZone/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/misc.xml" afterPath="$PROJECT_DIR$/CrimeZone/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/modules.xml" afterPath="$PROJECT_DIR$/CrimeZone/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/CrimeZone/.idea/runConfigurations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/.idea/vcs.xml" afterPath="$PROJECT_DIR$/CrimeZone/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone.iml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/.gitignore" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/CrimeZone-CrimeZone.iml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/CrimeZone-CrimeZone.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/build.gradle" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/proguard-rules.txt" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/proguard-rules.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/DetailReportUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/DetailReportUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/EditProfileUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/EditProfileUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/HomeMapUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/HomeMapUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/NewsFeedUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/NewsFeedUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/NotificationService.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/NotificationService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/ProfileUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/ProfileUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/RegisterUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/RegisterUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/ReportFormUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/ReportFormUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/UserController.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/autostart.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/activities/autostart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/CrimeReport.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/CrimeReport.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/DatePickerUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/DatePickerUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/GiveRatingUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/GiveRatingUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/GsonParser.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/GsonParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/MapController.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/MapController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/NewsFeedController.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/NewsFeedController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/NewsFeedItem.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/NewsFeedItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/ReportController.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/ReportController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/SearchLocationUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/SearchLocationUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/TimePickerUI.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/classes/TimePickerUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/report_comment_ui.java" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/crimezone/report_comment_ui.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/sql.html" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/sql.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/sqlbackup.html" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/java/com/ppl/sqlbackup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_news_feed.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_news_feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_profile_settings.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_profile_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_profile_ui.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_profile_ui.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_register_ui.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_register_ui.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_report_comment_ui.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_report_comment_ui.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_user_controller.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/activity_user_controller.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/autocomplete.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/autocomplete.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/bottom_slider.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/bottom_slider.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/comment_item.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/comment_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/fragment_give_rating.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/fragment_give_rating.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/home_map_ui.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/home_map_ui.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/newsfeed_item.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/newsfeed_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/report_detail_ui.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/report_detail_ui.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/report_form_ui.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/report_form_ui.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/test_filter.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/layout/test_filter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/global.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/global.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/map_controller_actions.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/map_controller_actions.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/news_feed.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/news_feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/profile_settings.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/profile_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/report_form_ui.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/report_form_ui.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/sign_up.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/sign_up.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/user_controller.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/user_controller.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/user_profile.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/menu/user_profile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/strings_activity_user_controller.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/strings_activity_user_controller.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/CrimeZone/CrimeZone/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build.gradle" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/library.iml" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/library.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/pom.xml" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/project.properties" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/res/drawable/above_shadow.xml" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/res/drawable/above_shadow.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/res/drawable/below_shadow.xml" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/res/drawable/below_shadow.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/res/values/attrs.xml" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/src/com/sothree/slidinguppanel/SlidingUpPanelLayout.java" afterPath="$PROJECT_DIR$/CrimeZone/Libraries/AndroidSlidingUpPanel/library/src/com/sothree/slidinguppanel/SlidingUpPanelLayout.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/build.gradle" afterPath="$PROJECT_DIR$/CrimeZone/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/gradle.properties" afterPath="$PROJECT_DIR$/CrimeZone/gradle.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/CrimeZone/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/gradlew" afterPath="$PROJECT_DIR$/CrimeZone/gradlew" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/gradlew.bat" afterPath="$PROJECT_DIR$/CrimeZone/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeZone/settings.gradle" afterPath="$PROJECT_DIR$/CrimeZone/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="crimezone.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="crimezone" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="64" />
+    <option name="width" value="1346" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crimezone" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crimezone" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CrimeZone" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="601e071c-12e2-4cf6-b9f7-10517ae8ecb3" name="Default" comment="" />
+      <created>1459831708079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1459831708079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="64" width="1346" height="704" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
@@ -130,12 +131,12 @@ public class ReportFormUI extends FragmentActivity {
                 b.putInt("set_year", time.get(Calendar.YEAR));
                 b.putInt("set_month", time.get(Calendar.MONTH));
                 b.putInt("set_day", time.get(Calendar.DAY_OF_MONTH));
-                DatePickerUI datePicker = new DatePickerUI(dateHandler);
-                datePicker.setArguments(b);
-                FragmentManager fm = getSupportFragmentManager();
-                FragmentTransaction ft = fm.beginTransaction();
-                ft.add(datePicker, "date_picker");
-                ft.commit();
+//                DatePickerUI datePicker = new DatePickerUI(dateHandler);
+//                datePicker.setArguments(b);
+//                FragmentManager fm = getSupportFragmentManager();
+//                FragmentTransaction ft = fm.beginTransaction();
+//                ft.add(datePicker, "date_picker");
+//                ft.commit();
             }
         };
         crimeDate.setOnClickListener(dateListener);
@@ -163,15 +164,15 @@ public class ReportFormUI extends FragmentActivity {
         View.OnClickListener timeListener = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               Bundle b = new Bundle();
-                b.putInt("set_hour", time.get(Calendar.HOUR_OF_DAY));
-                b.putInt("set_minute", time.get(Calendar.MINUTE));
-                TimePickerUI timePicker = new TimePickerUI(timeHandler);
-                timePicker.setArguments(b);
-                FragmentManager fm = getSupportFragmentManager();
-                FragmentTransaction ft = fm.beginTransaction();
-                ft.add(timePicker, "time_picker");
-                ft.commit();
+//               Bundle b = new Bundle();
+//                b.putInt("set_hour", time.get(Calendar.HOUR_OF_DAY));
+//                b.putInt("set_minute", time.get(Calendar.MINUTE));
+//                TimePickerUI timePicker = new TimePickerUI(timeHandler);
+//                timePicker.setArguments(b);
+//                FragmentManager fm = getSupportFragmentManager();
+//                FragmentTransaction ft = fm.beginTransaction();
+//                ft.add(timePicker, "time_picker");
+//                ft.commit();
             }
         };
         crimeTime.setOnClickListener(timeListener);
@@ -296,7 +297,7 @@ public class ReportFormUI extends FragmentActivity {
                                                     type[finalIi].setImageResource(R.drawable.ic_nocrime);
                                                     newReportCrimeType[finalIi] = false;
                                                 }else{
-                                                    type[finalIi].setImageResource(getResources().getColor(android.R.color.transparent));
+                                                    type[finalIi].setImageDrawable(new ColorDrawable(getResources().getColor(R.color.transparent)));
                                                     newReportCrimeType[finalIi] = true;
                                                 }
                                             }

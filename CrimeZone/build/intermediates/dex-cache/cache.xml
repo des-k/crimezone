@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="22bf97e8c4d37f40ec117c9843f2cf52aae27f84">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/instant-run-bootstrap_75509cb0259929218d76319ae451f186ec231eb3.jar" />
+    </item>
+    <item
+        jar="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="7bec5619c665a55620fc69006e89fdfb48517675">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.3_925f87976c34b3413b4d56e193a0343fcc8bcbb3.jar" />
+    </item>
+    <item
+        jar="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="153521fff4f11ef37a224ca3bd9bbdc24d636ce9">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/instant-run_e041891cf742f9cf75f57ae1978a337d4fd45ff7.jar" />
+    </item>
+    <item
+        jar="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/exploded-aar/CrimeZone.Libraries.AndroidSlidingUpPanel/library/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="ba273f2772978d9b0c9144b3769dc1bb8c9e52fc">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_fa7434da575c4b9e68f668947b4eb8e0ca18576c.jar" />
+    </item>
+    <item
+        jar="/home/ade/dev/opt/installer/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/gson-2.2.4_f2a1ad6473e38a9338ebb41813f94354935c5f8a.jar" />
+    </item>
+    <item
+        jar="/home/ade/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/support-v4-19.1.0_eac2602a5e574940a50734aba10adcbd7f4b48a6.jar" />
+    </item>
+    <item
+        jar="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-19.1.0_fe29546bdcbc0a4c69ff5918ab05dd1266505962.jar" />
+    </item>
+    <item
+        jar="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.0.30/jars/classes.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/home/ade/dev/mobile/android/crimezone/CrimeZone/CrimeZone/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-4.0.30_6dcb5bb87f89a3ea164e773b958f620ab333c6eb.jar" />
+    </item>
+
+</items>

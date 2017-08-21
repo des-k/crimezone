@@ -308,22 +308,22 @@ public class HomeMapUI extends ActionBarActivity {
                 }
 
                 /** Instantiating TimePickerDialogFragment */
-                DatePickerUI datePicker = new DatePickerUI(handler);
+//                DatePickerUI datePicker = new DatePickerUI(handler);
 
                 /** Setting the bundle object on timepicker fragment */
-                datePicker.setArguments(b);
-
-                /** Getting fragment manger for this activity */
-                FragmentManager fm = getSupportFragmentManager();
-
-                /** Starting a fragment transaction */
-                FragmentTransaction ft = fm.beginTransaction();
-
-                /** Adding the fragment object to the fragment transaction */
-                ft.add(datePicker, "date_picker");
-
-                /** Opening the TimePicker fragment */
-                ft.commit();
+//                datePicker.setArguments(b);
+//
+//                /** Getting fragment manger for this activity */
+//                FragmentManager fm = getSupportFragmentManager();
+//
+//                /** Starting a fragment transaction */
+//                FragmentTransaction ft = fm.beginTransaction();
+//
+//                /** Adding the fragment object to the fragment transaction */
+//                ft.add(datePicker, "date_picker");
+//
+//                /** Opening the TimePicker fragment */
+//                ft.commit();
             }
         };
     }

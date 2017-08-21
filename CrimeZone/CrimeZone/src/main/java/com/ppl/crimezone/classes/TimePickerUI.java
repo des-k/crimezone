@@ -17,11 +17,13 @@ public class TimePickerUI extends DialogFragment {
     int mHour;
     int mMinute;
 
-    public TimePickerUI(Handler h){
-        /** Getting the reference to the message handler instantiated in MainActivity class */
-        mHandler = h;
+    public TimePickerUI(){}
 
-    }
+//    public TimePickerUI( h){
+//        /** Getting the reference to the message handler instantiated in MainActivity class */
+//        mHandler = h;
+//
+//    }
 
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState){
